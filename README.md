@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashwin-k22
 - 👀 I’m interested in object oriented programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, Javascript, Java, Ruby
 - 💞️ I’m looking to collaborate on open source projects and gain more experience in C++ or any other languages as well
 - 📫 How to reach me ashwin.kundeti@gmail.com
 
